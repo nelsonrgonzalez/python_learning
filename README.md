@@ -1,2 +1,3 @@
-# python_learning
- Learning python with notebooks
+# jupyter_widgets_learning
+ 
+Learning python with notebooks
